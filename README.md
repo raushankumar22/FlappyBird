@@ -1,8 +1,8 @@
 ![Version](https://img.shields.io/badge/version-0.1-blue.svg?cacheSeconds=2592000)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/simcoder_here)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/simcoder_here/)
-[![image](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCQ5xY26cw5Noh6poIE-VBog)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/FadesBan)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_raushan_22)
+[![image](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@RaushanVerma_7)
 
 
 <!-- PROJECT LOGO -->
@@ -135,7 +135,6 @@ This project is [GPL 3](https://github.com/raushankumar22/FlappyBird/blob/main/L
 
 **RaushanKumar**
 
-* Website: www.simcoder.com
 * Twitter: [@FadesBan\_here](https://x.com/FadesBan)
 * Github: [@raushankumar22](https://github.com/raushankumar22/FlappyBird)
 * Youtube: [RaushanVermaVlog](https://www.youtube.com/@RaushanVerma_7)
