@@ -8,7 +8,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCQ5xY26cw5Noh6poIE-VBog">
+  <a href="https://www.youtube.com/@RaushanVerma_7">
     <img src="https://pbs.twimg.com/profile_images/1300479753133191168/R-2_lhEt.jpg" alt="Logo" width="80" height="80">
   </a>
 
@@ -17,14 +17,14 @@
   <p align="center">
     A clone of the famous and classic mobile game Flappy Bird, made with React Native w/ Expo
     <br />
-    <a href="https://github.com/SimCoderYoutube/FlappyBirdClone"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/raushankumar22/FlappyBird"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://www.youtube.com/watch?v=zK2xYD4Nytw&ab_channel=SimCoder">Video Tutorial</a>
+    <a href="https://www.youtube.com/@RaushanVerma_7">Video Tutorial</a>
     ·
-    <a href="https://github.com/SimCoderYoutube/FlappyBirdClone/issues">Report Bug</a>
+    <a href="https://github.com/raushankumar22/FlappyBird">Report Bug</a>
     ·
-    <a href="https://github.com/SimCoderYoutube/FlappyBirdClone/issues">Request Feature</a>
+    <a href="https://github.com/raushankumar22/FlappyBird/issues">Request Feature</a>
   </p>
 </p>
 
@@ -63,7 +63,7 @@
 
 Do you know it is possible to make 2D games with react native? In this video I'll prove it to you by using react native, expo, react native game engine and Matterjs. In just 1 hour we'll make a clone of a classic mobile game, Let's make flappy bird 👨‍💻
 
-You can view the tutorial for this project in a [youtube video](https://www.youtube.com/watch?v=zK2xYD4Nytw&ab_channel=SimCoder)
+You can view the tutorial for this project in a [youtube video](https://www.youtube.com/@RaushanVerma_7)
 
 
 ### Built With
@@ -107,14 +107,14 @@ This is an example of how to list things you need to use the software and how to
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/SimCoderYoutube/FlappyBirdClone/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/raushankumar22/FlappyBird/issues) for a list of proposed features (and known issues).
 
 
 
 <!-- CONTRIBUTING -->
 ## ➕ Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**. Please check the [Wiki](https://github.com/SimCoderYoutube/FlappyBirdClone/wiki/How-to-Contribute) 
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**. Please check the [Wiki](https://github.com/raushankumar22/FlappyBird/wiki/How-to-Contribute) 
 
 
 ## 🌟 Show your support
@@ -125,17 +125,17 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2021 [SimCoder](https://github.com/simcoderYoutube).
+Copyright © 2021 [RaushanKumar](https://github.com/raushankumar22/FlappyBird).
 
-This project is [GPL 3](https://github.com/SimCoderYoutube/FlappyBirdClone/blob/main/LICENSE) licensed. Some of the dependencies are licensed differently.
+This project is [GPL 3](https://github.com/raushankumar22/FlappyBird/blob/main/LICENSE) licensed. Some of the dependencies are licensed differently.
 
 <!-- CONTACT -->
 ## 👤 Contact
 
 
-**SimCoder**
+**RaushanKumar**
 
 * Website: www.simcoder.com
-* Twitter: [@simcoder\_here](https://twitter.com/simcoder\_here)
-* Github: [@simcoderYoutube](https://github.com/simcoderYoutube)
-* Youtube: [SimCoder](https://www.youtube.com/channel/UCQ5xY26cw5Noh6poIE-VBog)
+* Twitter: [@FadesBan\_here](https://x.com/FadesBan)
+* Github: [@raushankumar22](https://github.com/raushankumar22/FlappyBird)
+* Youtube: [RaushanVermaVlog](https://www.youtube.com/@RaushanVerma_7)
