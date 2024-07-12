@@ -12,7 +12,7 @@
     <img src="https://pbs.twimg.com/profile_images/1300479753133191168/R-2_lhEt.jpg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">FlappyBirdClone</h3>
+  <h3 align="center">FlappyBird</h3>
 
   <p align="center">
     A clone of the famous and classic mobile game Flappy Bird, made with React Native w/ Expo
